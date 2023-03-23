@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+pymongo
+statesmodels
+pickle
+
+# -e .
